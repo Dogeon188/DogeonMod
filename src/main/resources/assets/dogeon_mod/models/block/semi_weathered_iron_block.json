@@ -1,0 +1,4 @@
+{
+  "parent": "block/cube_all",
+  "textures": {"all": "dogeon_mod:block/semi_weathered_iron_block"}
+}
