@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "dogeon_mod",
+  "version": "${version}",
+
+  "name": "Random Stuffs by Dogeon",
+  "description": "Some random (might be cursed) stuffs.",
+  "authors": ["Dogeon188"],
+  "contact": {
+    "website": "dogeon188.github.io"
+  },
+  "icon": "assets/dogeon_mod/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": ["me.dogeon.dogeon_mod.client.DogeonModClient"],
+    "main": ["me.dogeon.dogeon_mod.DogeonMod"]
+  },
+  "mixins": ["dogeon_mod.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.10.6+build.214",
+    "fabric": "*",
+    "minecraft": "1.16.3"
+  }
+}
