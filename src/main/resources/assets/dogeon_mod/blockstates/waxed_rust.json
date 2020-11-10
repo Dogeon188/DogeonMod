@@ -1,0 +1,8 @@
+{
+  "variants": {"":[
+    {"model": "dogeon_mod:block/rust"},
+    {"model": "dogeon_mod:block/rust", "y": 90},
+    {"model": "dogeon_mod:block/rust", "y": 180},
+    {"model": "dogeon_mod:block/rust", "y": 270}
+  ]}
+}

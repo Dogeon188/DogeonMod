@@ -1,0 +1,10 @@
+{
+  "type": "block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [{"type": "item", "name": "dogeon_mod:waxed_rust"}],
+      "conditions": [{"condition": "survives_explosion"}]
+    }
+  ]
+}

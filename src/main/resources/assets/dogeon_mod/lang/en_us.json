@@ -1,0 +1,11 @@
+{
+  "block.dogeon_mod.iron_block": "Iron Block",
+  "block.dogeon_mod.lightly_weathered_iron_block": "Lightly Weathered Iron Block",
+  "block.dogeon_mod.rust": "Rust",
+  "block.dogeon_mod.semi_weathered_iron_block": "Semi-weathered Iron Block",
+  "block.dogeon_mod.waxed_iron_block": "Waxed Iron Block",
+  "block.dogeon_mod.waxed_lightly_weathered_iron_block": "Waxed Lightly Weathered Iron Block",
+  "block.dogeon_mod.waxed_rust": "Waxed Rust",
+  "block.dogeon_mod.waxed_semi_weathered_iron_block": "Waxed Semi-weathered Iron Block",
+  "itemGroup.dogeon_mod.general": "Dogeon Mod"
+}

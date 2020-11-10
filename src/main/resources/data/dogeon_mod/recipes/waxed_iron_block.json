@@ -1,0 +1,8 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {"item": "dogeon_mod:iron_block"},
+    {"item": "honeycomb"}
+  ],
+  "result": {"item": "dogeon_mod:waxed_iron_block"}
+}
